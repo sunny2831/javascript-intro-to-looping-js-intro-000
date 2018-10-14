@@ -19,13 +19,11 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(array) {
-  function incrementVariable(array) {
     let i = 0;
     do {
       array.pop()
       i++
         }
       while (i < array.length)
-}
 return array
 }
